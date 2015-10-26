@@ -1,0 +1,14 @@
+package application;
+
+import javafx.scene.media.Media;
+import javafx.scene.media.MediaView;
+import javafx.scene.media.MediaPlayer;
+public class Player extends BorderPane {
+	Media media;
+	MediaPlayer player;
+	MediaView view;
+	public Player(String file){
+		
+	
+	}
+}
